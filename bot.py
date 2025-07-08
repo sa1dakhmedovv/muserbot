@@ -18,7 +18,7 @@ from telethon.tl.functions.messages import ExportChatInviteRequest
 from telethon.tl.types import ChatAdminRights
 
 # ======== CONFIG ========
-BOT_TOKEN = '7777261311:AAHIF9-v6k9ueDiyLLuvibJa9eNtxNS2KdI'
+BOT_TOKEN = '8042039591:AAHUjBaRW3rEq7ed4Be9YbYgT8fNgqLfQ78'
 TELETHON_API_ID = 24999511
 TELETHON_API_HASH = '248a62677a36ac78ffab6ed94f0d5551'
 ADMIN_ID = 1736878097  # ← faqat shu ID ishlata oladi
