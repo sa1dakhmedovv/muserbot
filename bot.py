@@ -18,10 +18,10 @@ from telethon.tl.functions.messages import ExportChatInviteRequest
 from telethon.tl.types import ChatAdminRights
 
 # ======== CONFIG ========
-BOT_TOKEN = '8195096775:AAEsEFoYpltqo1KrMXORzYfC-4BeIMTMh-4'
-TELETHON_API_ID = 28369489
-TELETHON_API_HASH = '369653d4ba4277f81d109368af59f82f'
-ADMIN_ID = 5802051984  # ← faqat shu ID ishlata oladi
+BOT_TOKEN = '7777261311:AAHIF9-v6k9ueDiyLLuvibJa9eNtxNS2KdI'
+TELETHON_API_ID = 24999511
+TELETHON_API_HASH = '248a62677a36ac78ffab6ed94f0d5551'
+ADMIN_ID = 1736878097  # ← faqat shu ID ishlata oladi
 
 SESSIONS_DIR = 'sessions'
 DATA_FILE = 'data.json'
